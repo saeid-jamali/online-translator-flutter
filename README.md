@@ -25,7 +25,13 @@ Online Translator is a mobile application designed to support text input, langua
 
 ## Screenshots
 
-Screenshots will be added soon.
+| First Page |
+|---|---|
+| ![Home Screen](screenshots/Firstpage) |
+
+| Second Page |
+|---|
+| ![Image Recognition](screenshots/Secondpage) |
 
 ## Getting Started
 
