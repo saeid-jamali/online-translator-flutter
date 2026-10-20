@@ -1,17 +1,76 @@
-# onlinetranslator
+# Online Translator | Flutter
 
-مترجم آنلاین صوتی
+A mobile translation application built with Flutter and Dart.
+
+## Overview
+
+Online Translator is a mobile application designed to support text input, language selection, text recognition from images, and text-to-speech functionality.
+
+## Features
+
+- Source and target language selection
+- Text input and processing
+- OCR (Optical Character Recognition) using Google ML Kit
+- Select images from the gallery
+- Capture images using the camera
+- Text-to-speech functionality
+- Right-to-left (RTL) interface support
+
+## Tech Stack
+
+- Flutter
+- Dart
+- Google ML Kit Text Recognition
+- Android
+
+## Screenshots
+
+Screenshots will be added soon.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter SDK
+- Android Studio or another Flutter-compatible development environment
+- Android SDK
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+### Run Locally
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Clone the repository:
+
+```bash
+git clone https://github.com/saeid-jamali/online-translator-flutter.git
+```
+
+Navigate to the project directory:
+
+```bash
+cd online-translator-flutter
+```
+
+Install dependencies:
+
+```bash
+flutter pub get
+```
+
+Run the application:
+
+```bash
+flutter run
+```
+
+## Build APK
+
+```bash
+flutter build apk --release
+```
+
+The generated APK is normally available at:
+
+`build/app/outputs/flutter-apk/app-release.apk`
+
+## License
+
+No license has been specified yet.
