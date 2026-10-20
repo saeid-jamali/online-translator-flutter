@@ -27,11 +27,11 @@ Online Translator is a mobile application designed to support text input, langua
 
 | First Page |
 |---|---|
-| ![Home Screen](screenshots/Firstpage) |
+| ![Home Screen](screenshots/Firstpage.jfif) |
 
 | Second Page |
 |---|
-| ![Image Recognition](screenshots/Secondpage) |
+| ![Image Recognition](screenshots/Secondpage.jfif) |
 
 ## Getting Started
 
